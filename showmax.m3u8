@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-#http://new.cache-stream.workers.dev/Y3vGHFrsqrs/live.m3u8
-#https://ythls.armelin.one/channel/Y3vGHFrsqrs.m3u8
-#https://ythlsgo.onrender.com/channel/Y3vGHFrsqrs.m3u8
 https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
